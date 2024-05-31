@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaMayBatch.iml" filepath="$PROJECT_DIR$/JavaMayBatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/May25/May25.iml" filepath="$PROJECT_DIR$/May25/May25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/May28/May28.iml" filepath="$PROJECT_DIR$/May28/May28.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticeQuestions/PracticeQuestions.iml" filepath="$PROJECT_DIR$/PracticeQuestions/PracticeQuestions.iml" />
+    </modules>
+  </component>
+</project>
